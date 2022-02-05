@@ -6,7 +6,13 @@ target 'KeywordNews' do
   use_frameworks!
 
   # Pods for KeywordNews
+  pod 'FirebaseUI'
+  pod 'Firebase/Auth'
+  pod 'Firebase/Firestore'
+  
+
   pod "TTGTagCollectionView"
+  pod 'IQKeyboardManagerSwift'
 
   target 'KeywordNewsTests' do
     inherit! :search_paths

@@ -14,10 +14,88 @@
             filePath = "KeywordNews/Scenes/NewsList/NewListViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "61"
-            endingLineNumber = "61"
-            landmarkName = "setupLayout()"
-            landmarkType = "7">
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA91A002-C94F-4279-B8EE-52C61153C03B"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "KeywordNews/Scenes/NewsList/NewListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "NewListViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "CA91A002-C94F-4279-B8EE-52C61153C03B - 40b3f61dcbb1a4c7"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KeywordNews.NewListViewController.tableView.getter : __C.UITableView"
+                  moduleName = "KeywordNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jungmin/Downloads/Alarm9_beforDesign/KeywordNews/Scenes/NewsList/NewListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "44">
+               </Location>
+               <Location
+                  uuid = "CA91A002-C94F-4279-B8EE-52C61153C03B - a4c2889885090003"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; __C.UITableView in KeywordNews.NewListViewController.tableView.getter : __C.UITableView"
+                  moduleName = "KeywordNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jungmin/Downloads/Alarm9_beforDesign/KeywordNews/Scenes/NewsList/NewListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "32">
+               </Location>
+               <Location
+                  uuid = "CA91A002-C94F-4279-B8EE-52C61153C03B - c1a0b288905d4ec3"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KeywordNews.NewListViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; KeywordNews.NewListViewController"
+                  moduleName = "KeywordNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jungmin/Downloads/Alarm9_beforDesign/KeywordNews/Scenes/NewsList/NewListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "CA91A002-C94F-4279-B8EE-52C61153C03B - 191f7e073e8ee901"
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "KeywordNews.NewListViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;KeywordNews.NewListViewController&gt;"
+                  moduleName = "KeywordNews"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jungmin/Downloads/Alarm9_beforDesign/KeywordNews/Scenes/NewsList/NewListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "144">
+               </Location>
+            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
